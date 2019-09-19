@@ -6,3 +6,6 @@
 ![메인페이지 & 검색리스트](bucketclass_main.gif)
 ![상세페이지 미리보기](singlepage.gif)
 
+# :alembic: Reference
+[BACK-END 개발 Github저장소](https://github.com/MinHyungRHIE/bc-back) <br>
+[FRONT-END 개발 Github저장소](https://github.com/MinHyungRHIE/bc-front)
